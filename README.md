@@ -1,4 +1,4 @@
-Diamond Price Analysis
+Diamond Price Analysis:
 Predicting the price of diamonds based on their physical and quality attributes using machine learning.
 
 Project Overview:
